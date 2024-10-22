@@ -29,6 +29,7 @@ This repository provides a curated list of papers and tutorials on federated lea
 
 ## Tutorials
 ## Reviews
+- Zhou et al.  **联邦学习研究综述.**  网络与信息安全学报,  2021.
 ## Horizontal Federated Learning
 ## Vertical Federated Learning
 ## Federated Transfer Learning
