@@ -45,3 +45,11 @@ This repository provides a curated list of papers and tutorials on federated lea
 ## Existing Defenses in Federated Recommendation
 ## Some Open Source Code
 
+============================================================================================
+
+| Data      | 2017-2019 | 2020 | 2021 | 2022 | 2023 | 2024 |
+|-----------|-----------|------|------|------|------|------|
+| PaperN    |           |      |      |      |      |      |
+
+
+
