@@ -21,4 +21,4 @@ This repository provides a curated list of papers and tutorials on federated lea
 ## [16-Some open source code:](link-to-Some-open-source-code)
 
 ============================================================================================
-* Please help to contribute this list by adding [pull request](link-to-pulls) with the template below.
+* Please help to contribute this list by adding [pull request](link-to-https://github.com/CPZXJ/FLpaper/pulls) with the template below.
