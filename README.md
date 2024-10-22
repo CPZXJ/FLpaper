@@ -6,19 +6,19 @@ This repository provides a curated list of papers and tutorials on federated lea
 ## [01-Reviews:](#Reviews)
 ## [02-Horizontal FL:](#Horizontal-Federated-Learning)
 ## [03-Vertical FL:](#Vertical-Federated-Learning)
-## [04-FTL:](link-to-FTL)
-## [05-FR Scenarios:](link-to-FR-Scenarios)
-## [06-Data PA:](link-to-Data-PA)
-## [07-Model PA:](link-to-Model-PA)
-## [08-BA:](link-to-BA)
-## [09-Data PD:](link-to-Data-PD)
-## [10-Model PD:](link-to-Model-PD)
-## [11-BD:](link-to-BD)
-## [12-PPFL:](link-to-PPFL)
-## [13-PPFR:](link-to-PPFR)
-## [14-Existing attacks in FR:](link-to-Existing-attacks-in-FR)
-## [15-Existing defenses in FR:](link-to-Existing-defenses-in-FR)
-## [16-Some open source code:](link-to-Some-open-source-code)
+## [04-FTL:](#Federated-Transfer-Learning)
+## [05-FR Scenarios:](#Federated-Recommendation-Scenarios)
+## [06-Data PA:](#Data-Poisoning-Attacks)
+## [07-Model PA:](#Model-Poisoning-Attacks)
+## [08-BA:](#Backdoor-Attacks)
+## [09-Data PD:](#Data-Poisoning-Defense)
+## [10-Model PD:](#Model-Poisoning-Defense)
+## [11-BD:](#Backdoor-Defense)
+## [12-PPFL:](#Privacy\-preserving-Federated-Learning)
+## [13-PPFR:](#privacy\-preserving-Federated-Recommendation)
+## [14-Existing attacks in FR:](#Existing-Attacks-in-Federated-Recommendation)
+## [15-Existing defenses in FR:](#Existing-Defenses-in-Federated-Recommendation)
+## [16-Some open source code:](#Some-Open-Source-Code)
 
 ============================================================================================
 \* Please help to contribute this list by adding [pull request](https://github.com/CPZXJ/FLpaper/pulls) with the template below.
@@ -40,7 +40,7 @@ This repository provides a curated list of papers and tutorials on federated lea
 # Model Poisoning Defense
 # Backdoor Defense
 # Privacy-preserving Federated Learning
-# privacy-preserving Federated Recommendation
+# Privacy-preserving Federated Recommendation
 # Existing Attacks in Federated Recommendation
 # Existing Defenses in Federated Recommendation
 # Some Open Source Code
