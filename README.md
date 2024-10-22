@@ -1,7 +1,7 @@
 # Must-read papers on Federated Learning attack and defense  
 This repository provides a curated list of papers and tutorials on federated learning (FL), including systematic tutorials, existing reviews, horizontal federated learning, vertical federated learning, federated transfer learning, federated recommendation scenarios, data poisoning attacks, model poisoning attacks, backdoor attacks, data poisoning defense, model poisoning defense, backdoor defense, privacy-preserving federated learning, privacy-preserving federated recommendation, existing attacks in federated recommendation, existing defenses in federated recommendation, some open source code, etc.  
 
-====================================================================================
+============================================================================================
 
 ### [00-Tutorials:](#Tutorials)   contain so many tutorials on federated learning given by prominent researchers at many top-tier conferences
 ### [01-Reviews:](#Reviews) a set of comprehensive surveys about federated learning，such as horizontal federated learning，vertical federated learning，federated transfer learning，data poisoning attacks and so on
@@ -21,13 +21,13 @@ This repository provides a curated list of papers and tutorials on federated lea
 ### [15-Existing defenses in FR:](#Existing-Defenses-in-Federated-Recommendation) some existing defenses in federated recommendation
 ### [16-Some open source code:](#Some-Open-Source-Code) providing users with some open source codes to better understand and apply federated learning
 
-====================================================================================
+============================================================================================
 
 \* Please help to contribute this list by adding [pull request](https://github.com/CPZXJ/FLpaper/pulls) with the template below.
 ```markdown
 * Author Name et al. **Paper Name.**  Conference/Journal, Year.
 ```
-====================================================================================
+============================================================================================
 
 ## Tutorials
 ## Reviews
