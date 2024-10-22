@@ -1,11 +1,11 @@
 # Must-read papers on Federated Learning attack and defense  
-This repository provides a curated list of papers and tutorials on federated learning (FL), including systematic tutorials, existing reviews, horizontal federated learning, vertical federated learning, federated transfer learning, federated recommendation scenarios, data poisoning attacks, model poisoning attacks, backdoor attacks, data poisoning defense, model poisoning defense, backdoor defense, privacy-preserving federated learning, privacy-preserving federated recommendation, existing attacks in federated recommendation, existing defenses in federated recommendation, Some open source code, etc.  
+This repository provides a curated list of papers and tutorials on federated learning (FL), including systematic tutorials, existing reviews, horizontal federated learning, vertical federated learning, federated transfer learning, federated recommendation scenarios, data poisoning attacks, model poisoning attacks, backdoor attacks, data poisoning defense, model poisoning defense, backdoor defense, privacy-preserving federated learning, privacy-preserving federated recommendation, existing attacks in federated recommendation, existing defenses in federated recommendation, some open source code, etc.  
 
 ============================================================================================
 ## [00-Tutorials:](#Tutorials)
-## [01-Reviews:](link-to-Reviews)
-## [02-Horizontal FL:](link-to-Horizontal-FL)
-## [03-Vertical FL:](link-to-Vertical-FL)
+## [01-Reviews:](#Reviews)
+## [02-Horizontal FL:](#Horizontal_Federated_Learning)
+## [03-Vertical FL:](#Vertical_Federated_Learning)
 ## [04-FTL:](link-to-FTL)
 ## [05-FR Scenarios:](link-to-FR-Scenarios)
 ## [06-Data PA:](link-to-Data-PA)
@@ -26,6 +26,22 @@ This repository provides a curated list of papers and tutorials on federated lea
 * Author Name et al. **Paper Name.**  Conference/Journal, Year.
 ```
 ============================================================================================
-# Tutorials
 
+# Tutorials
+# Reviews
+# Horizontal Federated Learning
+# Vertical Federated Learning
+# Federated Transfer Learning
+# Federated Recommendation Scenarios
+# Data Poisoning Attacks
+# Model Poisoning Attacks
+# Backdoor Attacks
+# Data Poisoning Defense
+# Model Poisoning Defense
+# Backdoor Defense
+# Privacy-preserving Federated Learning
+# privacy-preserving Federated Recommendation
+# Existing Attacks in Federated Recommendation
+# Existing Defenses in Federated Recommendation
+# Some Open Source Code
 
