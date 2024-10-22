@@ -4,8 +4,8 @@ This repository provides a curated list of papers and tutorials on federated lea
 ============================================================================================
 ## [00-Tutorials:](#Tutorials)
 ## [01-Reviews:](#Reviews)
-## [02-Horizontal FL:](#Horizontal_Federated_Learning)
-## [03-Vertical FL:](#Vertical_Federated_Learning)
+## [02-Horizontal FL:](#Horizontal-Federated-Learning)
+## [03-Vertical FL:](#Vertical-Federated-Learning)
 ## [04-FTL:](link-to-FTL)
 ## [05-FR Scenarios:](link-to-FR-Scenarios)
 ## [06-Data PA:](link-to-Data-PA)
