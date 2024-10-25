@@ -50,28 +50,28 @@ al.**Data_and_Model_Poisoning_Backdoor_Attacks_on_Wireless_Federated_Learning_an
 ## Horizontal Federated Learning
 - Zhang et al.  **Federated Feature Selection for Horizontal Federated Learning in IoT Networks.**  IEEE IoT-J,  2023.
 ## Vertical Federated Learning
--Chen et al.  **面向纵向联邦学习的对抗样本生成算法.**  通信学报,  2023.
+- Chen et al.  **面向纵向联邦学习的对抗样本生成算法.**  通信学报,  2023.
 ## Federated Transfer Learning
--Liu et al.  **A Secure Federated Transfer Learning Framework.**  IEEE IS,  2023.
+- Liu et al.  **A Secure Federated Transfer Learning Framework.**  IEEE IS,  2023.
 ## Federated Recommendation Scenarios
--Chen et al.  **一种基于注意力联邦蒸馏的推荐方法.**  软件学报,  2020.
+- Chen et al.  **一种基于注意力联邦蒸馏的推荐方法.**  软件学报,  2020.
 
 ## Data Poisoning Attacks
--Xiao et al.  **Adversarial label flips attack on support vector machines.**  ECAL,  2012.
--Rosenfeld et al.  **certified robustness to label-flipping attacks via randomized smoothing.**  ICML,  2020.
--Bagdasaryan et al.  **How to backdoor federated learning .**  ICML,  2020.
--Sun et al.  **data posioning attacks on federated machine learning .**  IEEE ITOJ,  2021.
--Xu et al.  **More is Better(mostly)_on the backdoor attacks in federated learning.**  ACSAC,  2022.
--Rieger et al.  **Deepsight_mitigating backdoor attacks in federated learning through deep model inspection.**  NDSS,  2022.
--Fang et al.  **On the vulnerability of backdoor defenses for federated learning.**  AAAI,  2023.
--Liu et al.  **Poisoning_Attack_based_on_Data_Feature_Selection_in_Federated_Learning.**  IEEE Confluence,  2023.
+- Xiao et al.  **Adversarial label flips attack on support vector machines.**  ECAL,  2012.
+- Rosenfeld et al.  **certified robustness to label-flipping attacks via randomized smoothing.**  ICML,  2020.
+- Bagdasaryan et al.  **How to backdoor federated learning .**  ICML,  2020.
+- Sun et al.  **data posioning attacks on federated machine learning .**  IEEE ITOJ,  2021.
+- Xu et al.  **More is Better(mostly)_on the backdoor attacks in federated learning.**  ACSAC,  2022.
+- Rieger et al.  **Deepsight_mitigating backdoor attacks in federated learning through deep model inspection.**  NDSS,  2022.
+- Fang et al.  **On the vulnerability of backdoor defenses for federated learning.**  AAAI,  2023.
+- Liu et al.  **Poisoning_Attack_based_on_Data_Feature_Selection_in_Federated_Learning.**  IEEE Confluence,  2023.
 
 ## Model Poisoning Attacks
--Baruch et al.  **a-little-is-enough-circumventing-defenses-for-distributed-learning-Paper.**  NeurIPS,  2019.
--Fang et al.  **local model poisoning attacks to byzantine-robust federated learning.**  usenix,  2020.
--Shejwalkar et al.  **Manipulating the byzantine_Optimizing model poisoning attacks and defense for federated learning.**  NDSS,  2021.
--Cao et al.  **MPAF_Model_Poisoning_Attacks_to_Federated_Learning_Based_on_Fake.**  CVPR,  2022.
--Zhang et al.  **denial-of-service or fine-grained control_towards flexible model poisoning attacks on federated learning.**  arxiv,  2023.
+- Baruch et al.  **a-little-is-enough-circumventing-defenses-for-distributed-learning-Paper.**  NeurIPS,  2019.
+- Fang et al.  **local model poisoning attacks to byzantine-robust federated learning.**  usenix,  2020.
+- Shejwalkar et al.  **Manipulating the byzantine_Optimizing model poisoning attacks and defense for federated learning.**  NDSS,  2021.
+- Cao et al.  **MPAF_Model_Poisoning_Attacks_to_Federated_Learning_Based_on_Fake.**  CVPR,  2022.
+- Zhang et al.  **denial-of-service or fine-grained control_towards flexible model poisoning attacks on federated learning.**  arxiv,  2023.
 - Zhang et al.  **FLTracer_accurate poisoning attack provenance in federated learning.**  arxiv,  2023.
 - Jin et al.  **FedPerturb Covert Poisoning Attack on Federated Learning via Partial Perturbation .**  IEEE ECAL,  2023.
 - Yuan et al.  **Model_Poisoning_Attack_In_Federated_Learning_Via_Adversarial_Examples.**  IEEE SCSET,  2023.
@@ -84,21 +84,21 @@ al.**Data_and_Model_Poisoning_Backdoor_Attacks_on_Wireless_Federated_Learning_an
 - Huang et al.  **Efficient_any-Target_Backdoor_Attack_with_Pseudo_Poisoned_Samples.**  IEEE ICIP,  2023.
 
 ## Data Poisoning Defense
--Shen et al.  **AUROR：Defending Against Poisoning Attacks in Collaborative Deep Learning Systems.**  ACSAC,  2016.
--Fung et al.  **Mitigating Sybils in Federated Learning Poisoning.**  arxiv,  2018.
--Tolpegin et al.  **Data Poisoning Attacks Against Federated Learning Systems.**  ESORICS,  2020.
--Fung et al.  **The Limitations of Federated learning.**  RAID,  2020.
--Awan et al.  **CONTRA ：defending against Poisoning Attacks in Federated Learning.**  ESORICS,  2021.
--Chen et al.  **De-Pois_An_Attack-Agnostic_Defense_against_Data_Poisoning_Attacks.**  IEEE TIFS,  2021.
--Jebreel et al.  **Defending against the label-flipping attack in federated learning.**  arxiv,  2022.
--Gupta et al.  **Long-ShortHistoryof Gradient is All You Need.**  ESORICS,  2022.
--Wu et al.  **Toward_Cleansing_Backdoored_Neural_Networks_in_Federated_Learning.**  ICDCS,  2022.
--Nguyen et al.  **FLAME_Taming backdoors in federated learning.**  USENIX,  2022.
+- Shen et al.  **AUROR：Defending Against Poisoning Attacks in Collaborative Deep Learning Systems.**  ACSAC,  2016.
+- Fung et al.  **Mitigating Sybils in Federated Learning Poisoning.**  arxiv,  2018.
+- Tolpegin et al.  **Data Poisoning Attacks Against Federated Learning Systems.**  ESORICS,  2020.
+- Fung et al.  **The Limitations of Federated learning.**  RAID,  2020.
+- Awan et al.  **CONTRA ：defending against Poisoning Attacks in Federated Learning.**  ESORICS,  2021.
+- Chen et al.  **De-Pois_An_Attack-Agnostic_Defense_against_Data_Poisoning_Attacks.**  IEEE TIFS,  2021.
+- Jebreel et al.  **Defending against the label-flipping attack in federated learning.**  arxiv,  2022.
+- Gupta et al.  **Long-ShortHistoryof Gradient is All You Need.**  ESORICS,  2022.
+- wu et al.  **Toward_Cleansing_Backdoored_Neural_Networks_in_Federated_Learning.**  ICDCS,  2022.
+- Nguyen et al.  **FLAME_Taming backdoors in federated learning.**  USENIX,  2022.
 - Rezaei et al.  **Run-off Election_improved Provable Defense against data poisoning attacks.**  arxiv,  2023.
--Jiang et al.  **Data Quality Detection Mechanism Against Label Flipping Attacks in Federated Learning.**  IEEE TIFS,  2023.
--Jebreel et al.  **FL_Defender：Combating targeted attacks in federated learning.**  KBS,  2023.
+- Jiang et al.  **Data Quality Detection Mechanism Against Label Flipping Attacks in Federated Learning.**  IEEE TIFS,  2023.
+- Jebreel et al.  **FL_Defender：Combating targeted attacks in federated learning.**  KBS,  2023.
 -Ovi et al.  **Confident federated learning to tackle label flipped data poisoning attacks.**  SPIE DCS,  2023.
--Jebreel et al.  **LFighter_defending against the label-flipping attack in federated learning.**  NN,  2024.
+- Jebreel et al.  **LFighter_defending against the label-flipping attack in federated learning.**  NN,  2024.
 
 ## Model Poisoning Defense
 
@@ -107,10 +107,10 @@ al.**Data_and_Model_Poisoning_Backdoor_Attacks_on_Wireless_Federated_Learning_an
 - Shamshiri et al.  **Defense_Method_Challenges_Against_Backdoor_Attacks_in_Neural_Networks.**  IEEE ICAIIC,  2024.
 
 ## Privacy-preserving Federated Learning
--Liu et al.  **联邦学习中的隐私保护技术.**  软件学报,  2021.
+- Liu et al.  **联邦学习中的隐私保护技术.**  软件学报,  2021.
 
 ## Privacy-preserving Federated Recommendation
--Xue et al.  **Advanced_Privacy-Preserving_Federated_Relationship_Recommendation.**  IEEE ICAICA,  2023.
+- Xue et al.  **Advanced_Privacy-Preserving_Federated_Relationship_Recommendation.**  IEEE ICAICA,  2023.
 
 ## Existing Attacks in Federated Recommendation
 - Rong et al.  **FedRecAttack Model Poisoning Attack to Federated Recommendation.**  IEEE ICDE,  2022.
