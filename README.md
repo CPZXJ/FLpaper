@@ -101,6 +101,60 @@ al.**Data_and_Model_Poisoning_Backdoor_Attacks_on_Wireless_Federated_Learning_an
 - Jebreel et al.  **LFighter_defending against the label-flipping attack in federated learning.**  NN,  2024.
 
 ## Model Poisoning Defense
+- McMahan et al.  **communication-efficient learning of deep networks from decentralized data.** MLR, 2016.
+- Blanchard et al.  **machine-learning-with-adversaries-byzantine-tolerant-gradient-descent-Paper.** NIPS, 2017.
+- Muñoz-González et al.  **Towards poisoning of deep learning algorithms with back-gradient optimization.** arxiv, 2017.
+- Yin et al.  **Byzantine-Robust Distributed Learning_towards optimal stastistical rates.** ICML, 2018.
+- Mhamdi et al.  **the hidden vulnerability of distributed learning in byzantium.** ICML, 2018.
+- Sun et al.  **can you really backdoor federated learning.** arxiv, 2019.
+- Baruch et al.  **A little Is Enough_circumventing defense for distributed learning.** NIPS, 2019.
+- Bhagoji et al.  **analyzing federated learning through an adversarial lens.** ICML, 2019.
+- Li et al.  **abnormal client behavior detection in federated learning.** arxiv, 2019.
+- Cao et al.  **Distributed_Gradient_Descent_Algorithm_Robust_to_an_Arbitrary_Number_of_Byzantine_Attackers.** IEEE TOSP, 2019.
+- Xia et al.  **FABA_An algorithm for fast aggregation against byzantine attacks in distributed neural networks.** IJCAI, 2019.
+- Pillutla et al.  **Robust Aggregation for Federated Learning.** arxiv, 2019.
+- Li et al.  **RSAByzantine-robust stochastic aggregation methods for distributed learning from heterogeneous datasets.** AAAI, 2019.
+- Liu et al.  **communication-efficient federated learning for anomaly detection in industrial internet of things.** IEEE GB, 2020.
+- Sun et al.  **Data poisoning attacks on federated machine learning.** arxiv, 2020.
+- Li et al.  **learning to detect malicious clients for  robust federated learning.** arxiv, 2020.
+- Sun et al.  **fl-wbc-enhancing-robustness-against-model-poisoning-attacks-in-federated-learning-from-a-client-perspective-Paper (1).** NeurIPS, 2021.
+- Cao et al.  **FLTRUST ：Byzantine-robust federated learning via trust bootstrapping.** NDSS, 2021.
+- Shejwalkar et al.  **Manipulating the byzantine_optimizing model poisoning attacks and defenses for federated learning.** NDSS, 2021.
+- Xu et al.  **Byzantine-robost Federated learning through Collaborative Malicious Gradient Filtering.** ICDCS, 2022.
+- Wang et al.  **Federated unlearning via class-discriminative pruning.** WWW, 2022.
+- Cao et al.  **FLCert_Provably_Secure_Federated_Learning_Against_Poisoning_Attacks.** IEEE TIFS, 2022.
+- Zhang et al.  **FLDetector_defending federated learning against model poisoning attacks via detecting malicious clients.** KDD, 2022.
+- Weng et al.  **Privacy-Preserving_Federated_Learning_based_on_Differential_Privacy_and_Momentum_Gradient_Descent.** IJCNN, 2022.
+- Shejwalkar et al.  **Back to the Drawing Board： A critical Evaluation of poisoning attacks on production federated learning.** IEEE-SP, 2022.
+- Panda et al.  **SparseFed_mitigating model poisoning attacks in federated learning with sparsification.** AISTATS, 2022.
+- Gong et al.  **agramplifier_defending federated learning agaginst poisoning attacks through local update amplification.** IEEE TIFS, 2023.
+- Yin et al.  **Defending_Against_Data_Poisoning_Attack_in_Federated_Learning_With_Non-IID_Data.** IEEE TOCSS, 2023.
+- Aloran et al.  **Defending_Federated_Learning_Against_Model_Poisoning_Attacks.** IEEE BigData, 2023.
+- Yan et al.  **DeFL_defending against model poisoning attacks in federated learning via critical learning periods awareness.** AAAI, 2023.
+- Lu et al.  **Depriving_the_Survival_Space_of_Adversaries_Against_Poisoned_Gradients_in_Federated_Learning.** IEEE TIFS, 2023.
+- Mozaffari et al.  **every vote count_ranking-based training of federated learning to resist poisoning attacks.** usenix, 2023.
+- Guo et al.  **FAST_Adopting_Federated_Unlearning_to_Eliminating_Malicious_Terminals_at_Server_Side.** IEEE TNSE, 2023.
+- Zhao et al.  **FedCom_Byzantine-Robust_Federated_Learning_Using_Data_Commitment.** IEEE ICC, 2023.
+- Chelli et al.  **FedGuard_Selective_Parameter_Aggregation_for_Poisoning_Attack_Mitigation_in_Federated_Learning.** IEEE CLUSTER, 2023.
+- Zhang et al.  **FedRecovery_Differentially_Private_Machine_Unlearning_for_Federated_Learning_Frameworks.** IEEE TIFS, 2023.
+-  Cao et al.  **FedRecover_Recovering_from_Poisoning_Attacks_in_Federated_Learning_using_Historical_Information.** IEEE SP, 2023.
+- Ebron Jr. et al.  **FedTruth_byzantine_robust and backdoor-resilient federated learning framework.** arxiv, 2023.
+- Liu et al.  **FLOW_A_Robust_Federated_Learning_Framework_to_Defend_Against_Model_Poisoning_Attacks_in_IoTs.** IEEE IOTJ, 2023.
+- Han et al.  **kick bad guys out zero-knowledge-proof-based anomaly detection in federated learning.** arxiv, 2023.
+- Zhu et al.  **leadFL_Client self-defense against model poisoning in federated learning.** PMLR, 2023.
+- Li et al.  **loMar_a local defense against poisoning attack on federated learning .** IEEE TDSC, 2023.
+- Krauß et al.  **MESAS_poisoning defense for federated learning resilient against adaptive attacks.** CCS, 2023.
+- Yan et al.  **reces vaccine for federated learning_proactive defense against model poisoning attacks.** arxiv, 2023.
+- Yaldiz et al.  **secure federated learning against modek=l poisonong attacks via client filtering.** ICLR, 2023.
+- Zhao et al.  **Semisupervised_Federated-Learning-Based_Intrusion_Detection_Method_for_Internet_of_Things.** IEEE IOTJ, 2023.
+- Shen et al.  **SPEFL_Efficient_Security_and_Privacy_Enhanced_Federated_Learning_Against_Poisoning_Attacks.** IEEE IOTJ, 2023.
+- Ma et al.  **面向Non-IID数据的拜占庭鲁棒联邦学习.** 通信学报, 2023.
+- Yang et al.  **A_Robust_and_Efficient_Federated_Learning_Algorithm_Against_Adaptive_Model_Poisoning_Attacks.** IEEE ITOJ, 2024.
+- Dong et al.  **FADngs_Federated_Learning_for_Anomaly_Detection.** IEEE TNNLS, 2024.
+- Han et al.  **kick bad guys out_zero-knowlege-proof-based anomaly detection in federated learning.** ICLR, 2024.
+- Yang et al.  **RoseAgg_Robust_Defense_against_Targeted_Collusion_Attacks_in_Federated_Learning.** IEEE TIFS, 2024.
+- Kasyap et al.  **Sine_Similarity_is_not_enough_for_mitigating_Local_Model_Poisoning_Attacks_in_Federated_Learning.** IEEE TDSC, 2024.
+- Huang et al.  **VPPFL_A verifiable privacy- preserving federated learning scheme against poisoning attacks.** CS, 2024.
 
 
 ## Backdoor Defense
