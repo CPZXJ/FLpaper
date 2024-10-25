@@ -30,11 +30,21 @@ This repository provides a curated list of papers and tutorials on federated lea
 ===========================================================================
 
 ## Tutorials
+- Yang et al.  **Federated Learning.**  SLAIML,  2021.
 ## Reviews
 - Zhou et al.  **联邦学习研究综述.**  网络与信息安全学报,  2021.
-- Xiao et al.  **联邦学习的隐私保护与安全防御研究综述.**  计算机学报学报,  2023.
+- Wu et al.  **联邦学习攻击与防御综述.**  大数据,  2022.
+- Chen et al.  **联邦学习攻防研究综述.**  计算机科学,  2022.
+- Gu et al.  **联邦学习模型安全与隐私研究进展.**  软件学报,  2022.
+- Shi et al.  **challenges and approaches for mitigating byzantine attacks in federated learning.**  IEEE ICTSP,  2022.
+- Xiao et al.  **联邦学习的隐私保护与安全防御研究综述.**  计算机学报,  2023.
+- Gao et al.  **联邦学习系统攻击与防御技术研究综述.**  计算机学报,  2023.
+- Sun et al.  **联邦学习拜占庭攻击与防御研究综述.**  网络空间安全科学学报,  2023.
+- Yang et al.  **联邦学习与攻防对抗综述.**  信息网络安全,  2023.
+- Sun et  
+al.**Data_and_Model_Poisoning_Backdoor_Attacks_on_Wireless_Federated_Learning_and_the_Defense_Mechanisms_A_Comprehensive_Survey.**  IEEE CSAT,  2024.
+- Chen et al.  **联邦学习中的安全威胁与防御措施综述.**  计算机应用,  2024.
 - Zhang et al.  **联邦学习中的攻击手段与防御机制研究综述.**  计算机工程与应用,  2024.
-- Zhang et al.  **联邦学习中的安全威胁与防御措施综述.**  计算机应用,  2024.
 ## Horizontal Federated Learning
 - Zhang et al.  **Federated Feature Selection for Horizontal Federated Learning in IoT Networks.**  IEEE,  2023.
 ## Vertical Federated Learning
