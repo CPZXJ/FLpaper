@@ -34,6 +34,7 @@ This repository provides a curated list of papers and tutorials on federated lea
 
 ## Reviews
 - Zhou et al.  **联邦学习研究综述.**  网络与信息安全学报,  2021.
+- Liang et al.  **基于联邦学习的推荐系统综述.**  中国科学,  2022.
 - Wu et al.  **联邦学习攻击与防御综述.**  大数据,  2022.
 - Chen et al.  **联邦学习攻防研究综述.**  计算机科学,  2022.
 - Gu et al.  **联邦学习模型安全与隐私研究进展.**  软件学报,  2022.
@@ -51,10 +52,12 @@ al.**Data_and_Model_Poisoning_Backdoor_Attacks_on_Wireless_Federated_Learning_an
 - Zhang et al.  **Federated Feature Selection for Horizontal Federated Learning in IoT Networks.**  IEEE IoT-J,  2023.
 ## Vertical Federated Learning
 - Chen et al.  **面向纵向联邦学习的对抗样本生成算法.**  通信学报,  2023.
+- Lai et al.  **VFedAD A Defense Method Based on the Information.**  CIKD CCFB,  2023.
 ## Federated Transfer Learning
 - Liu et al.  **A Secure Federated Transfer Learning Framework.**  IEEE IS,  2023.
 ## Federated Recommendation Scenarios
 - Chen et al.  **一种基于注意力联邦蒸馏的推荐方法.**  软件学报,  2020.
+- Rong et al.  **poisoning deep learning based recommender model in federated learning scenarios.**  IJCAL,  2022.
 
 ## Data Poisoning Attacks
 - Xiao et al.  **Adversarial label flips attack on support vector machines.**  ECAL,  2012.
@@ -158,16 +161,23 @@ al.**Data_and_Model_Poisoning_Backdoor_Attacks_on_Wireless_Federated_Learning_an
 
 
 ## Backdoor Defense
+- Fang et al.  **On the Vulnerability of Backdoor Defenses for Federated Learning .**  AAAI,  2023.
 - Shamshiri et al.  **Defense_Method_Challenges_Against_Backdoor_Attacks_in_Neural_Networks.**  IEEE ICAIIC,  2024.
 
 ## Privacy-preserving Federated Learning
 - Liu et al.  **联邦学习中的隐私保护技术.**  软件学报,  2021.
 
 ## Privacy-preserving Federated Recommendation
+- Zhang et al.  **基于隐私保护的联邦推荐算法综述_张洪磊.**  自动化学报,  2022.
 - Xue et al.  **Advanced_Privacy-Preserving_Federated_Relationship_Recommendation.**  IEEE ICAICA,  2023.
 
 ## Existing Attacks in Federated Recommendation
+- Chen et al.  **Robust Federated Recommendation System.**  arxiv,  2020.
+- Huang et al.  **data poisoning attacks to deep learning based recommender systems.**  NDSS,  2021.
 - Rong et al.  **FedRecAttack Model Poisoning Attack to Federated Recommendation.**  IEEE ICDE,  2022.
+- Zhang et al.  **PipAttack Poisoning Federated Recommender Systems for.**  arxiv,  2022.
+- Wu et al.  **Fedattack_effectivate and covert poisoning attack on federated recommendation via hard sampling.**  kdd,  2022.
+- Yu et al.  **Untargeted attack against federated recommendation systems via poisonous item embeddings and the defense.**  AAAI,  2023.
 
 ## Existing Defenses in Federated Recommendation
 - Sandeepa et al.  **Rec-Def_A_Recommendation-Based_Defence_Mechanism_for_Privacy_Preservation_in_Federated_Learning_Systems.**  IEEE TCE,  2024.
@@ -178,6 +188,6 @@ al.**Data_and_Model_Poisoning_Backdoor_Attacks_on_Wireless_Federated_Learning_an
 
 | Date      | before 2017 | 2017-2019 | 2020 | 2021 | 2022 | 2023 | 2024 |
 |-----------|-------------|-----------|------|------|------|------|------|
-| PaperN    |      3      |     14    |  10  |   9  |  19  |  44  |  13  |
-|   Sum     |                           112                              |
+| PaperN    |      3      |     14    |  11  |   10 |  24  |  47  |  13  |
+|   Sum     |                           122                              |
   
