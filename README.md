@@ -86,7 +86,7 @@ al.**Data_and_Model_Poisoning_Backdoor_Attacks_on_Wireless_Federated_Learning_an
 ## Backdoor Attacks
 - Huang et al.  **Efficient_any-Target_Backdoor_Attack_with_Pseudo_Poisoned_Samples.**  IEEE ICIP,  2023.
 
-## Data Poisoning Defense
+## Data Poisoning Defenses
 - Shen et al.  **AUROR：Defending Against Poisoning Attacks in Collaborative Deep Learning Systems.**  ACSAC,  2016.
 - Fung et al.  **Mitigating Sybils in Federated Learning Poisoning.**  arxiv,  2018.
 - Tolpegin et al.  **Data Poisoning Attacks Against Federated Learning Systems.**  ESORICS,  2020.
@@ -103,7 +103,7 @@ al.**Data_and_Model_Poisoning_Backdoor_Attacks_on_Wireless_Federated_Learning_an
 -Ovi et al.  **Confident federated learning to tackle label flipped data poisoning attacks.**  SPIE DCS,  2023.
 - Jebreel et al.  **LFighter_defending against the label-flipping attack in federated learning.**  NN,  2024.
 
-## Model Poisoning Defense
+## Model Poisoning Defenses
 - McMahan et al.  **communication-efficient learning of deep networks from decentralized data.** MLR, 2016.
 - Blanchard et al.  **machine-learning-with-adversaries-byzantine-tolerant-gradient-descent-Paper.** NIPS, 2017.
 - Muñoz-González et al.  **Towards poisoning of deep learning algorithms with back-gradient optimization.** arxiv, 2017.
@@ -160,7 +160,7 @@ al.**Data_and_Model_Poisoning_Backdoor_Attacks_on_Wireless_Federated_Learning_an
 - Huang et al.  **VPPFL_A verifiable privacy- preserving federated learning scheme against poisoning attacks.** CS, 2024.
 
 
-## Backdoor Defense
+## Backdoor Defenses
 - Fang et al.  **On the Vulnerability of Backdoor Defenses for Federated Learning .**  AAAI,  2023.
 - Shamshiri et al.  **Defense_Method_Challenges_Against_Backdoor_Attacks_in_Neural_Networks.**  IEEE ICAIIC,  2024.
 
