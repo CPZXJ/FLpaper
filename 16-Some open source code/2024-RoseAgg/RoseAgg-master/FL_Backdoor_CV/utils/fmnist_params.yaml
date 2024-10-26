@@ -1,0 +1,33 @@
+type: image
+test_batch_size: 64
+
+
+momentum: 0.9
+decay: 0.0005
+
+retrain_no_times: 2
+model: resnet
+
+sampling_dirichlet: true
+dirichlet_alpha: 0.5
+
+# file names of the images
+poison_type: wall
+
+
+poison_label_swap: 2
+poison_label_swaps: [0, 1, 6]
+size_of_secret_dataset: 500
+random_compromise: false
+
+retrain_poison: 120
+poison_lr: 0.0005
+poison_momentum: 0.9
+poison_decay: 0.005
+
+data_folder: ../data
+
+0_poison_pattern: [[0, 4], [0, 5], [0, 6], [1, 4], [2, 4], [2, 5], [2, 6], [3, 4]]
+1_poison_pattern: [[0, 9], [1, 9], [2, 9], [3, 9], [3, 10], [3, 11]]
+2_poison_pattern: [[0, 15], [1, 14], [1, 16], [2, 14], [2, 15], [2, 16], [3, 14], [3, 16]]
+3_poison_pattern: [[0, 19], [0, 20], [0, 21], [1, 20], [2, 20], [3, 19], [3, 20], [3, 21]]
