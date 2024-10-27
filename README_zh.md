@@ -1,36 +1,37 @@
 
 [English](/README.md) | [中文](/README_zh.md)
-# Must-read papers on Federated Learning attack and defense  
-## Introduction
-This repository provides a curated list of papers and tutorials on federated learning (FL), including systematic tutorials, Existing Surveys, horizontal federated learning, vertical federated learning, federated transfer learning, federated recommendation scenarios, data poisoning attacks, model poisoning attacks, data poisoning defenses, model poisoning defenses, privacy-preserving federated learning, privacy-preserving federated recommendation, existing attacks in federated recommendation, existing defenses in federated recommendation, some open source code, etc.  
+# 联邦学习攻击与防御必读论文
 
-\* Please help to contribute this list by adding [pull request](https://github.com/CPZXJ/FLpaper/pulls) with the template below.Thank you to all contributors!
+## 介绍
+本仓库提供了关于联邦学习（Federated Learning，FL）的精选论文和教程列表，包括系统教程、现有综述、横向联邦学习、纵向联邦学习、联邦迁移学习、联邦推荐场景、数据投毒攻击、模型投毒攻击、数据投毒防御、模型投毒防御、隐私保护的联邦学习、隐私保护的联邦推荐、联邦推荐中的现有攻击和防御方法和一些开源代码等。
+
+\* 请通过提交 [pull request](https://github.com/CPZXJ/FLpaper/pulls) 并使用以下模版来帮助完善此列表，感谢所有的贡献者！
 ```markdown
-- Author Name et al. **Paper Name.**  Conference/Journal, Year.
+- 作者名字. **论文名称.**  会议名称/期刊名称, 发表年份.
 ```
 
-## Table of Contents
-- [00-System Tutorials:](#system-tutorials) contain so many tutorials on federated learning given by prominent researchers at many top-tier conferences
-- [01-Existing Surveys:](#existing-surveys) a set of comprehensive surveys about federated learning，such as horizontal federated learning，vertical federated learning，federated transfer learning，data poisoning attacks and so on
-- [02-Horizontal Federated Learning:](#horizontal-federated-learning) a set of famous papers on horizontal federated learning
-- [03-Vertical Federated Learning:](#vertical-federated-learning) several papers on vertical federated learning
-- [04-Federated Transfer Learning:](#federated-transfer-learning) some papers on federated transfer learning
-- [05-Federated Recommendation Scenarios:](#federated-recommendation-scenarios) a set of papers on scenarios applied federated recommendation 
-- [06-Data Poisoning Attacks:](#data-poisoning-attacks) it focus on helping users understand how a data poisoning attack is implemented
-- [07-Model Poisoning Attacks:](#model-poisoning-attacks) some papers explaining what is a model poisoning attack and its applications
-- [08-Data Poisoning Defense:](#data-poisoning-defense) some papers specifically dealing with data poisoning attacks
-- [09-Model Poisoning Defense:](#model-poisoning-defense) defenses against model poisoning attacks
-- [10-Privacy-Preserving Federated Learning:](#privacy\-preserving-federated-learning) links between federal learning and privacy protection
-- [11-Privacy-Preserving Federated Recommendation:](#privacy\-preserving-federated-recommendation) applying federated recommendation to privacy-preserving
-- [12-Existing attacks in Federated Recommendations:](#existing-attacks-in-federated-recommendation) summary of existing attacks against the federated recommendation
-- [13-Existing defenses in Federated Recommendations:](#existing-defenses-in-federated-recommendation) some existing defenses in federated recommendation
-- [14-Some open source code:](#some-open-source-code) providing users with some open source codes to better understand and apply federated learning
+## 目录
+- [**00-系统教程:**](#系统教程) 包含了许多著名研究者在顶级会议上关于联邦学习的系统教程
+- [**01-现有综述:**](#现有综述) 一系列关于联邦学习的全面综述，例如横向联邦学习、纵向联邦学习、联邦迁移学习、数据投毒攻击等
+- [**02-横向联邦学习:**](#横向联邦学习) 一些关于横向联邦学习的著名论文
+- [**03-纵向联邦学习:**](#纵向联邦学习) 一些关于纵向联邦学习的论文
+- [**04-联邦迁移学习:**](#联邦迁移学习) 一些关于联邦迁移学习的论文
+- [**05-联邦推荐场景:**](#联邦推荐场景) 一些关于联邦推荐应用场景的论文
+- [**06-数据投毒攻击:**](#数据投毒攻击) 重点帮助用户理解数据投毒攻击的实现方式
+- [**07-模型投毒攻击:**](#模型投毒攻击) 一些解释模型投毒攻击及其应用的论文
+- [**08-数据投毒防御:**](#数据投毒防御) 一些专门针对数据投毒攻击的防御论文
+- [**09-模型投毒防御:**](#模型投毒防御) 针对模型投毒攻击的防御措施
+- [**10-隐私保护的联邦学习:**](#隐私保护的联邦学习) 联邦学习与隐私保护的相关内容
+- [**11-隐私保护的联邦推荐:**](#隐私保护的联邦推荐) 在隐私保护中应用联邦推荐
+- [**12-联邦推荐中的现有攻击:**](#联邦推荐中的现有攻击) 总结了针对联邦推荐的现有攻击
+- [**13-联邦推荐中的现有防御:**](#联邦推荐中的现有防御) 联邦推荐中的一些现有防御方法
+- [**14-一些开源代码:**](#一些开源代码) 提供了一些开源代码，便于更好地理解和应用联邦学习
 
 
-## System Tutorials
+## 系统教程
 - Yang et al.  **Federated Learning.**  SLAIML,  2021.
 
-## Existing Surveys
+## 现有综述
 - Zhou et al.  **联邦学习研究综述.**  网络与信息安全学报,  2021.
 - Liang et al.  **基于联邦学习的推荐系统综述.**  中国科学,  2022.
 - Wu et al.  **联邦学习攻击与防御综述.**  大数据,  2022.
@@ -46,18 +47,18 @@ al.**Data_and_Model_Poisoning_Backdoor_Attacks_on_Wireless_Federated_Learning_an
 - Chen et al.  **联邦学习中的安全威胁与防御措施综述.**  计算机应用,  2024.
 - Zhang et al.  **联邦学习中的攻击手段与防御机制研究综述.**  计算机工程与应用,  2024.
 
-## Horizontal Federated Learning
+## 横向联邦学习
 - Zhang et al.  **Federated Feature Selection for Horizontal Federated Learning in IoT Networks.**  IEEE IoT-J,  2023.
-## Vertical Federated Learning
+## 纵向联邦学习
 - Chen et al.  **面向纵向联邦学习的对抗样本生成算法.**  通信学报,  2023.
 - Lai et al.  **VFedAD A Defense Method Based on the Information.**  CIKD CCFB,  2023.
-## Federated Transfer Learning
+## 联邦迁移学习
 - Liu et al.  **A Secure Federated Transfer Learning Framework.**  IEEE IS,  2023.
-## Federated Recommendation Scenarios
+## 联邦推荐场景
 - Chen et al.  **一种基于注意力联邦蒸馏的推荐方法.**  软件学报,  2020.
 - Rong et al.  **poisoning deep learning based recommender model in federated learning scenarios.**  IJCAL,  2022.
 
-## Data Poisoning Attacks
+## 数据投毒攻击
 - Xiao et al.  **Adversarial label flips attack on support vector machines.**  ECAL,  2012.
 - Rosenfeld et al.  **certified robustness to label-flipping attacks via randomized smoothing.**  ICML,  2020.
 - Bagdasaryan et al.  **How to backdoor federated learning .**  ICML,  2020.
@@ -73,7 +74,7 @@ al.**Data_and_Model_Poisoning_Backdoor_Attacks_on_Wireless_Federated_Learning_an
 - Zhang et al. **Data_Poisoning_based_Backdoor_Attacks_to_Contrastive_Learning** CVPR, 2024.
 - Cina et al. **Machine Learning Security against Data Poisoning Are We There Yet** arXiv, 2024.
 
-## Model Poisoning Attacks
+## 模型投毒攻击
 - Baruch et al.  **a-little-is-enough-circumventing-defenses-for-distributed-learning-Paper.**  NeurIPS,  2019.
 - Fang et al.  **local model poisoning attacks to byzantine-robust federated learning.**  usenix,  2020.
 - Shejwalkar et al.  **Manipulating the byzantine_Optimizing model poisoning attacks and defense for federated learning.**  NDSS,  2021.
@@ -98,7 +99,7 @@ al.**Data_and_Model_Poisoning_Backdoor_Attacks_on_Wireless_Federated_Learning_an
 - Li et al. **Poison Attack and Poison Detection on Deep Source Code Processing Models** TOSEM, 2024.
 - Yang et al. **robust-contrastive-language-image-pretraining-against-data-poisoning-and-backdoor-attacks** NeurIPS, 2023.
 
-## Data Poisoning Defenses
+## 数据投毒防御
 - Shen et al.  **AUROR：Defending Against Poisoning Attacks in Collaborative Deep Learning Systems.**  ACSAC,  2016.
 - Fung et al.  **Mitigating Sybils in Federated Learning Poisoning.**  arxiv,  2018.
 - Tolpegin et al.  **Data Poisoning Attacks Against Federated Learning Systems.**  ESORICS,  2020.
@@ -131,7 +132,7 @@ al.**Data_and_Model_Poisoning_Backdoor_Attacks_on_Wireless_Federated_Learning_an
 - Wang et al. **temporal-robustness-against-data-poisoning** NeurIPS, 2023.
 - Rezaei et al. **Run-off election improved provable defense against data poisoning attacks** PMLR, 2023.
 
-## Model Poisoning Defenses
+## 模型投毒防御
 - McMahan et al.  **communication-efficient learning of deep networks from decentralized data.** MLR, 2016.
 - Blanchard et al.  **machine-learning-with-adversaries-byzantine-tolerant-gradient-descent-Paper.** NIPS, 2017.
 - Muñoz-González et al.  **Towards poisoning of deep learning algorithms with back-gradient optimization.** arxiv, 2017.
@@ -203,14 +204,14 @@ al.**Data_and_Model_Poisoning_Backdoor_Attacks_on_Wireless_Federated_Learning_an
 - Yan et al. **DeFL defending against model poisoning attacks in federated learning via critical learning periods awareness** AAAI, 2023.
 - Zhu et al. **detection and defense of unlearnable examples** AAAI, 2024.
 
-## Privacy-preserving Federated Learning
+## 隐私保护的联邦学习
 - Liu et al.  **联邦学习中的隐私保护技术.**  软件学报,  2021.
 
-## Privacy-preserving Federated Recommendation
+## 隐私保护的联邦推荐
 - Zhang et al.  **基于隐私保护的联邦推荐算法综述_张洪磊.**  自动化学报,  2022.
 - Xue et al.  **Advanced_Privacy-Preserving_Federated_Relationship_Recommendation.**  IEEE ICAICA,  2023.
 
-## Existing Attacks in Federated Recommendation
+## 联邦推荐中的现有攻击
 - Chen et al.  **Robust Federated Recommendation System.**  arxiv,  2020.
 - Huang et al.  **data poisoning attacks to deep learning based recommender systems.**  NDSS,  2021.
 - Rong et al.  **FedRecAttack Model Poisoning Attack to Federated Recommendation.**  IEEE ICDE,  2022.
@@ -218,16 +219,15 @@ al.**Data_and_Model_Poisoning_Backdoor_Attacks_on_Wireless_Federated_Learning_an
 - Wu et al.  **Fedattack_effectivate and covert poisoning attack on federated recommendation via hard sampling.**  kdd,  2022.
 - Yu et al.  **Untargeted attack against federated recommendation systems via poisonous item embeddings and the defense.**  AAAI,  2023.
 
-## Existing Defenses in Federated Recommendation
+## 联邦推荐中的现有防御
 - Sandeepa et al.  **Rec-Def_A_Recommendation-Based_Defence_Mechanism_for_Privacy_Preservation_in_Federated_Learning_Systems.**  IEEE TCE,  2024.
 
-## Some Open Source Code
+## 一些开源代码
 - [**attacking-distributed-learning**](https://github.com/moranant/attacking_distributed_learning.git)
 
 ---
 
-| Date      | before 2017 | 2017-2019 | 2020 | 2021 | 2022 | 2023 | 2024 |
+| 日期      |  2017年前 | 2017-2019 | 2020 | 2021 | 2022 | 2023 | 2024 |
 |-----------|-------------|-----------|------|------|------|------|------|
-| PaperN    |      3      |     14    |  10  |   11 |  24  |  60  |  46  |
-|   Sum     |                           168                              |
-  
+| 论文数量    |      3      |     14    |  10  |   11 |  24  |  60  |  46  |
+|   总计     |                           168                              |
