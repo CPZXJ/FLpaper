@@ -204,7 +204,9 @@ al.**Data_and_Model_Poisoning_Backdoor_Attacks_on_Wireless_Federated_Learning_an
 - Wang et al. **defending-against-data-free-model-extraction-by-distributionally-robust-defensive-training** NeurIPS, 2023.
 - Zhang et al. **Poisoning-Free_Defense_Against_Black-Box_Model_Extraction** ICASSP, 2024
 - Zhu et al. **LeadFL client self-defense against model poisoning in federated learning** PMLR, 2024
-
+- Zhang et al. **Poisoning Free Defense Against Black Box Model Extraction** ICASSP, 2024.
+- Yan et al. **DeFL defending against model poisoning attacks in federated learning via critical learning periods awareness** AAAI, 2023.
+- Zhu et al. **detection and defense of unlearnable examples** AAAI, 2024.
 
 ## Backdoor Defenses
 - Fang et al.  **On the Vulnerability of Backdoor Defenses for Federated Learning .**  AAAI,  2023.
