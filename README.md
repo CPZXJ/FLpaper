@@ -68,6 +68,12 @@ al.**Data_and_Model_Poisoning_Backdoor_Attacks_on_Wireless_Federated_Learning_an
 - Rieger et al.  **Deepsight_mitigating backdoor attacks in federated learning through deep model inspection.**  NDSS,  2022.
 - Fang et al.  **On the vulnerability of backdoor defenses for federated learning.**  AAAI,  2023.
 - Liu et al.  **Poisoning_Attack_based_on_Data_Feature_Selection_in_Federated_Learning.**  IEEE Confluence,  2023.
+- Xu et al. **Shadowcast Stealthy Data Poisoning Attacks against Vision-language Model** NeurIPS, 2024.
+- Pawelczyk et al. **Machine Unlearning Fails to Remove Data Poisoning Attacks** arXiv, 2024.
+- Cotroneo et al. **Vulnerabilities in AI Code Generators Exploring Targeted Data Poisoning Attack** ICPC, 2024.
+- Yang et al. **Data Poisoning Attacks Against Multimodal Encoders** PMLR, 2023.
+- Zhang et al. **Data_Poisoning_based_Backdoor_Attacks_to_Contrastive_Learning** CVPR, 2024.
+- Cina et al. **Machine Learning Security against Data Poisoning Are We There Yet** arXiv, 2024.
 
 ## Model Poisoning Attacks
 - Baruch et al.  **a-little-is-enough-circumventing-defenses-for-distributed-learning-Paper.**  NeurIPS,  2019.
@@ -82,6 +88,17 @@ al.**Data_and_Model_Poisoning_Backdoor_Attacks_on_Wireless_Federated_Learning_an
 - Li et al.  **data-agnostic_model poisoning against federated learning_a graph autoencoder approach.**  IEEE TIFS,  2023.
 - Zhang et al.  **Denial-of-Service or Fine-Grained Control_towards FLexible model poisoning attacks on federated learning.**  IJCAI,  2023.
 - Jiang et al.  **towards efficient and certified recovery from poisoning attacks in federated learning.**  arxiv,  2024.
+- Aghakhani et al. **TROJANPUZZLE Covertly Poisoning Code-Suggestion Models** arXiv, 2024.
+- Cong et al. **Test-Time Poisoning Attacks Against Test-Time Adaptiation Models** arXiv, 2023.
+- Zhang et al. **LoRec Large Language Model for Robust Sequential Recommendation against Poisoning Attacks** arXiv, 2024.
+- Wu et al. **Preference Poisoning Attacks on Reward Model Learning** arXiv, 2024.
+- Zou et al. **PoisonedRAG Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models** arXiv, 2024.
+- Yuan et al. **Robust Federated Contrastive Recommende System against Model Poisoning Attack** arXiv, 2024.
+- Xie et al. **Model Poisoning Attacks to Federated Learning via Multi-Round Consistency** arXiv,2024.
+- Zhao et al. **Models Are Codes Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs** arXiv, 2024.
+- Yan et al. **recess-vaccine-for-federated-learning-proactive-defense-against-model-poisoning-attacks** NeurIPS, 2023.
+- Li et al. **Poison Attack and Poison Detection on Deep Source Code Processing Models** TOSEM, 2024.
+- Yang et al. **robust-contrastive-language-image-pretraining-against-data-poisoning-and-backdoor-attacks** NeurIPS, 2023.
 
 ## Backdoor Attacks
 - Huang et al.  **Efficient_any-Target_Backdoor_Attack_with_Pseudo_Poisoned_Samples.**  IEEE ICIP,  2023.
@@ -102,6 +119,22 @@ al.**Data_and_Model_Poisoning_Backdoor_Attacks_on_Wireless_Federated_Learning_an
 - Jebreel et al.  **FL_Defender：Combating targeted attacks in federated learning.**  KBS,  2023.
 -Ovi et al.  **Confident federated learning to tackle label flipped data poisoning attacks.**  SPIE DCS,  2023.
 - Jebreel et al.  **LFighter_defending against the label-flipping attack in federated learning.**  NN,  2024.
+- Li et al. **Defend Data Poisoning Attacks on Voice Authentication** arXiv, 2023.
+- Zhao et al. **Defending Against Weight-Poisoning Backdoor Attacks for Parameter-Efficient Fine-Tuning** arXiv, 2024.
+- Hong et al. **Diffusion denoising as a certified defense against clean-label poisoning** arXiv, 2024.
+- Gaspari et al. **Have you poisoned my data defending neural networks against data poisoning** arXiv, 2024.
+- Galanis et al. **Defending against data poisoning attacks in federated learning via user elimination** arXiv, 2024.
+- Sun et al. **a gan-based data poisoning attack against federated learning systems and its countermeasure** arXiv, 2024.
+- Bhat et al. **PUREGEN universal data purification for train-time ppoison defense via generative model dynamics** arXiv, 2024.
+- Wang et al. **Defending against sophisticated poisoning attacks with rl-based aggregation in fedaerated learning** arXiv, 2024.
+- Lai et al. **VFedAD a defense method based on the information mechanism behind the vertical federated data poisoning attack** CIKM, 2023.
+- Yang et al. **Breaking state-od-the-art poisoning defenses to federated learning an optimization-based attack framework** CIKM,2024.
+- Li et al. **BIC-Based mixture model defense against data poisoning attacks on classifiers a comprehensive study** TKDE,2024.
+- Badjie et al. **Denoising Autoencoder-Based Defensive Distillation as an Adversarial Robustness Algorithm Against Data Poisoning Attacks** sigada,2024.
+- Huang et al. **LDPGuard_Defenses_Against_Data_Poisoning_Attacks_to_Local_Differential_Privacy_Protocols** TKDE,2024.
+- Yan et al. **recess-vaccine-for-federated-learning-proactive-defense-against-model-poisoning-attacks** NeurIPS, 2023.
+- Wang et al. **temporal-robustness-against-data-poisoning** NeurIPS, 2023.
+- Rezaei et al. **Run-off election improved provable defense against data poisoning attacks** PMLR, 2023.
 
 ## Model Poisoning Defenses
 - McMahan et al.  **communication-efficient learning of deep networks from decentralized data.** MLR, 2016.
@@ -158,6 +191,19 @@ al.**Data_and_Model_Poisoning_Backdoor_Attacks_on_Wireless_Federated_Learning_an
 - Yang et al.  **RoseAgg_Robust_Defense_against_Targeted_Collusion_Attacks_in_Federated_Learning.** IEEE TIFS, 2024.
 - Kasyap et al.  **Sine_Similarity_is_not_enough_for_mitigating_Local_Model_Poisoning_Attacks_in_Federated_Learning.** IEEE TDSC, 2024.
 - Huang et al.  **VPPFL_A verifiable privacy- preserving federated learning scheme against poisoning attacks.** CS, 2024.
+- Kabir et al. **FLShield a validation based federated learning framework to defend against poisoning attacks** arXiv, 2023.
+- Han et al. **FedMID a data-free method for using intermediate outputs as a defense mechanism against poisoning attacks in federated learning** arXiv, 2024.
+- Zhao et al. **Models are codes towards measuring malicious code poisoning attacks on pre-trained model hubs** arXiv,2024.
+- Xie et al. **FedREDefense defending against model poisoning attacks for federated learning using model update reconstruction error** PMLR, 2024.
+- Chen et al. **Tutorial toward robust deep learning against poisoning attacks** TECS, 2023.
+- Krau et al. **MESAS poisoning defense for federated learning resilient against adaptive attackers** CCS,2023.
+- Sharma et al. **FLAIR defense against model poisoning attack in federated learning** , 2023.
+- Zheng et al. **detecting poisoning attacks on federated learning using gradient-weighted class activation mapping** WWW, 2024.
+- Yang et al. **A_Robust_and_Efficient_Federated_Learning_Algorithm_against_Adaptive_Model_Poisoning_Attacks** IoT, 2024.
+- Zhou et al. **Inversion-Guided_Defense_Detecting_Model_Stealing_Attacks_by_Output_Inverting** TIFS, 2024.
+- Wang et al. **defending-against-data-free-model-extraction-by-distributionally-robust-defensive-training** NeurIPS, 2023.
+- Zhang et al. **Poisoning-Free_Defense_Against_Black-Box_Model_Extraction** ICASSP, 2024
+- Zhu et al. **LeadFL client self-defense against model poisoning in federated learning** PMLR, 2024
 
 
 ## Backdoor Defenses
