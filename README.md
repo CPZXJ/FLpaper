@@ -2,7 +2,7 @@
 [English](/README.md) | [中文](/README_zh.md)
 # Must-read papers on Federated Learning attack and defense  
 ## Introduction
-This repository provides a curated list of papers and tutorials on federated learning (FL), including systematic tutorials, Existing Surveys, horizontal federated learning, vertical federated learning, federated transfer learning, federated recommendation scenarios, data poisoning attacks, model poisoning attacks, data poisoning defenses, model poisoning defenses, privacy-preserving federated learning, privacy-preserving federated recommendation, existing attacks in federated recommendation, existing defenses in federated recommendation, some open source code, etc.  
+This repository provides a curated list of papers and tutorials on federated learning (FL), including systematic tutorials, Existing Surveys, horizontal federated learning, vertical federated learning, federated transfer learning, federated recommendation scenarios, data poisoning attacks, model poisoning attacks, data poisoning defenses, model poisoning defenses, privacy-preserving federated learning, privacy-preserving federated recommendation, existing attacks in federated recommendation, existing defenses in federated recommendation, some open source codes, etc.  
 
 \* Please help to contribute this list by adding [pull request](https://github.com/CPZXJ/FLpaper/pulls) with the template below.Thank you to all contributors!
 ```markdown
