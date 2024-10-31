@@ -24,7 +24,7 @@ This repository provides a curated list of papers and tutorials on federated lea
 - [11-Privacy-Preserving Federated Recommendation:](#privacy\-preserving-federated-recommendation) applying federated recommendation to privacy-preserving
 - [12-Existing attacks in Federated Recommendations:](#existing-attacks-in-federated-recommendation) summary of existing attacks against the federated recommendation
 - [13-Existing defenses in Federated Recommendations:](#existing-defenses-in-federated-recommendation) some existing defenses in federated recommendation
-- [14-Some open source code:](#some-open-source-code) providing users with some open source codes to better understand and apply federated learning
+- [14-Some open source codes:](#some-open-source-codes) providing users with some open source codes to better understand and apply federated learning
 
 
 ## System Tutorials
@@ -221,7 +221,7 @@ al.**Data_and_Model_Poisoning_Backdoor_Attacks_on_Wireless_Federated_Learning_an
 ## Existing Defenses in Federated Recommendation
 - Sandeepa et al.  **Rec-Def_A_Recommendation-Based_Defence_Mechanism_for_Privacy_Preservation_in_Federated_Learning_Systems.**  IEEE TCE,  2024.
 
-## Some Open Source Code
+## Some Open Source Codes
 - [**attacking-distributed-learning**](https://github.com/moranant/attacking_distributed_learning.git)
 
 ---
